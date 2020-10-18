@@ -155,7 +155,7 @@
            ELSE
 *            This code path if here for safety. We do not expect this
 *            condition to ever hold except in edge cases with rounding
-*            errors. See DOI: 10.1145/355841.355847
+*            errors. See DOI: 10.1145/289251.289253
              DFLAG = -ONE
              DH11 = ZERO
              DH12 = ZERO
